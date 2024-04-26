@@ -25,9 +25,9 @@ latest stable release please visit the `CodeIgniter Downloads
 You can find a list of all changes for each release in the `user
 guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
 
-*******************
-Server Requirements
-*******************
+*********************
+ Server Requirements
+*********************
 
 PHP version 5.6 or newer is recommended.
 
